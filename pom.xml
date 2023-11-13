@@ -77,6 +77,8 @@ flexible messaging model and an intuitive client API.</description>
   </issueManagement>
 
   <properties>
+    <sonar.organization>bytesreturned</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
     <pulsar.broker.compiler.release>${maven.compiler.target}</pulsar.broker.compiler.release>
